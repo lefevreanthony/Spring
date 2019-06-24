@@ -18,9 +18,9 @@ public class MyprojectApplication {
     public String index() {
         return "<ul>" + 
         "<li><a href='/doctor/10'>doctor10</a></li>" + 
-        "<li><a href='/doctor/11'>doctor10</a></li>" + 
-        "<li><a href='/doctor/12'>doctor10</a></li>" + 
-        "<li><a href='/doctor/13'>doctor10</a></li>" + 
+        "<li><a href='/doctor/11'>doctor11</a></li>" + 
+        "<li><a href='/doctor/12'>doctor12</a></li>" + 
+        "<li><a href='/doctor/13'>doctor13</a></li>" + 
         "</ul>" ;   
     }
 
